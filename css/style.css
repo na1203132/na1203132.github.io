@@ -21,7 +21,9 @@ body, html {
 .fp-tableCell{
   border: none;
 }
-
+.fp-controlArrow {
+  border-color: black;
+}
 .col-sm{
   width:25%;
 }
