@@ -1,3 +1,8 @@
+*{
+  border: none;
+  outline: none;
+}
+
 body, html {
     height: 100%;
     margin: 0;
@@ -12,7 +17,10 @@ body, html {
  .nav-pills .nav-link.active, .nav-pills .show>.nav-link, a.nv:-webkit-any-link:active, a.nv:-webkit-any-link:hover {
     background-color: #dda22d;
    }
-
+   
+.fp-tableCell{
+  border: none;
+}
 
 .col-sm{
   width:25%;
